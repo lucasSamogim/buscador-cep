@@ -46,12 +46,8 @@ Este projeto faz uso da API do [ViaCEP](https://viacep.com.br/), um serviço pú
 
 Contribuições são bem-vindas! Se você tiver sugestões, correções de bugs ou melhorias para este projeto, sinta-se à vontade para abrir uma [issue](https://github.com/lucasSamogim/buscador-cep/issues) ou enviar um [pull request](https://github.com/lucasSamogim/buscador-cep/pulls).
 
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE). Sinta-se à vontade para usar, modificar e distribuir este código conforme necessário.
-
 ---
 
-Esperamos que este projeto seja útil para você! Se tiver alguma dúvida ou precisar de ajuda, não hesite em entrar em contato.
+Espero que este projeto seja útil para você! Se tiver alguma dúvida ou precisar de ajuda, não hesite em entrar em contato.
 
 Aproveite!
